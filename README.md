@@ -11,11 +11,17 @@ O projeto integra visualizações gráficas, análise de dados e um modelo de Ma
 
 ⚙️ Tecnologias Utilizadas
 🐍 Python 3.10+
+
 📊 Streamlit — Interface web interativa
+
 🧠 Scikit-learn — Modelo de Machine Learning
+
 🐬 MySQL — Armazenamento relacional dos dados acadêmicos
+
 🍃 MongoDB — Banco NoSQL para armazenar logs e histórico de previsões
+
 📈 Matplotlib e Seaborn — Visualizações e gráficos
+
 🧾 Pandas — Manipulação e análise de dados
 
 📊 Funcionalidades
