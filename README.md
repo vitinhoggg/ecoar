@@ -39,6 +39,7 @@ Gráfico de dispersão “Nota x Presença (%)”
 🎯 Previsão de Evasão
 Entrada de dados: idade, nota e frequência
 Retorno imediato:
+
 🔴 Alto risco de evasão
 
 🟢 Baixo risco de evasão
