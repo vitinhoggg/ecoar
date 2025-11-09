@@ -1,6 +1,6 @@
 🎓 ECOAR — Sistema de Previsão de Evasão Acadêmica
 
-![WhatsApp_Video_2025-11-09_at_00 10 22_2](https://github.com/user-attachments/assets/3d2a09ac-a353-4b5b-a95e-a73ac6e4077f)
+![Ecoar_Gif_2025-11-09_at_00 10 22_2](https://github.com/user-attachments/assets/3d2a09ac-a353-4b5b-a95e-a73ac6e4077f)
 
 
 📘 Sobre o Projeto
