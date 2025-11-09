@@ -29,6 +29,7 @@ O projeto integra visualizações gráficas, análise de dados e um modelo de Ma
 
 📊 Funcionalidades
 
+
 🧮 Painel (Dashboard)
 
 
@@ -37,6 +38,8 @@ Heatmap de correlação entre variáveis
 Gráfico de dispersão “Nota x Presença (%)”
 
 🎯 Previsão de Evasão
+
+
 Entrada de dados: idade, nota e frequência
 Retorno imediato:
 
@@ -47,6 +50,8 @@ Retorno imediato:
 Registro automático da previsão no MongoDB
 
 🧠 Modelo de Machine Learning
+
+
 
 O ECOAR utiliza uma Árvore de Decisão (DecisionTreeClassifier) com profundidade limitada (max_depth=3), garantindo explicabilidade e simplicidade.
 O modelo é treinado com os dados do banco MySQL, e os resultados são armazenados no MongoDB para consulta posterior.
