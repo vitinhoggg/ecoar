@@ -40,3 +40,19 @@ def carregar_modelo_e_dados():
     modelo.fit(X, y)
 
     return modelo, df
+
+
+# 🔥 Função adicionada: gerar árvore de decisão como figura
+def gerar_figura_arvore(modelo):
+    from sklearn.tree import plot_tree
+    import matplotlib.pyplot as plt
+
+    fig = plt.figure(figsize=(25, 12))
+    plot_tree(
+        modelo,
+        filled=True,
+        feature_names=["idade", "nota", "percentual_presenca"],
+        class_names=["Não Evadiu", "Evadiu"],
+        fontsize=10
+    )
+    return fig
